@@ -1,1 +1,1 @@
-这是一个初级博客搭建学习实验。
+This is a study blog！
